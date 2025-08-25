@@ -2,3 +2,5 @@
 [ LAB 1 https://github.com/2303A52418/2303A52418-EXPLAINABLE-AI/blob/main/Explainable_AI_35_LAB_ASS_1.ipynb]
 
 [LAB 2 https://github.com/2303A52418/2303A52418-EXPLAINABLE-AI/blob/main/EXP_AI_LAB_2.ipynb]
+
+[LAB 3 https://github.com/2303A52418/2303A52418-EXPLAINABLE-AI/blob/main/EXP_AI_LAB_3.ipynb]
