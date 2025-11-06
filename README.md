@@ -10,3 +10,5 @@
 [LAB 5 https://github.com/2303A52418/2303A52418-EXPLAINABLE-AI/blob/main/EXP_AI_LAB_5_(2418).ipynb]
 
 [LAB 6 https://github.com/2303A52418/2303A52418-EXPLAINABLE-AI/blob/main/LAB_6_(2418).ipynb ]
+
+[LAB 7 https://github.com/2303A52418/2303A52418-EXPLAINABLE-AI/blob/main/EXP_AI_LAB_7_(2418).ipynb]
